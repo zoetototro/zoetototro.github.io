@@ -11,9 +11,17 @@
 
 2015年からwebエンジニアとして働いております。
 
-使用可能言語:PHP /JavaScript / TypeScript / HTML / CSS
-使用可能FW Laravel / Express / Angular / Vue.js /
+## 使用可能言語
 
+PHP /JavaScript / TypeScript / HTML / CSS
+## 使用可能FW
+
+Laravel / Express / Angular / Vue.js /
+
+## その他ツール
+Firebase Docker　CircleCI
+
+## 概要
 Angular、Vueの職務経歴が数多くあり、フロントエンドが主に得意です。
 
 Angularについては、一人で医療系システムのフロントエンド全般を担当した経験があります。
@@ -59,7 +67,7 @@ AngularやVueでは複数のプロジェクトに関わってきました。
 役割
 フロントエンドエンジニア(Angular)
 開発環境
-【python、 Angular、Docker, kubernetess, github】
+【python、TensorFlow, flask, Angular、Docker, kubernetess, github】
 
 
 その他これ以前にも数社での開発経験がございます
